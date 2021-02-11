@@ -7,6 +7,10 @@ Data science repository contains my recent data science projects written in Pyth
   - #### General
   
   - #### Physics
+    - Signal Induced Noise
+    - Dark Count Rate
+    - Digital-to-Analog Converter Scan
+    - Threshold Scan
 
 - ### Machine Learning
   - #### General
