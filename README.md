@@ -9,10 +9,10 @@ Data science repository contains my recent data science projects written in Pyth
   - #### General
   
   - #### Physics
-    - Signal Induced Noise
-    - Dark Count Rate
-    - Digital-to-Analog Converter Scan
-    - Threshold Scan
+    - [Signal Induced Noise Analysis](https://github.com/islazykv/data-science/blob/main/data-analysis/physics/SIN-analysis.ipynb)
+    - Dark Count Rate Analysis
+    - Digital-to-Analog Converter Scan Analysis
+    - Threshold Scan Analysis
 
 - ### Machine Learning
   - #### General
