@@ -7,6 +7,8 @@ Data science repository contains my recent data science projects written in Pyth
 
 - ### Data Analysis and Data Visualization 
   - #### General
+    - [Netflix](http://localhost:8892/notebooks/Desktop/data-science-portfolio/data-analysis/general/netflix.ipynb)
+    - [World Map](http://localhost:8892/notebooks/Desktop/data-science-portfolio/data-analysis/general/world-map.ipynb)
   
   - #### Physics
     - [Signal Induced Noise Analysis](https://github.com/islazykv/data-science/blob/main/data-analysis/physics/SIN-analysis.ipynb)
