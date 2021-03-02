@@ -18,5 +18,6 @@ Data science repository contains my recent data science projects written in Pyth
 
 - ### Machine Learning
   - #### General
+    - [House Prices - Linear Regression](https://github.com/islazykv/data-science/blob/main/machine-learning/general/house-prices.ipynb)
   
   - #### Physics
