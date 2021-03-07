@@ -10,7 +10,7 @@ Data science repository contains my recent data science projects written in Pyth
     - [Netflix](https://github.com/islazykv/data-science/blob/main/data-analysis/general/netflix.ipynb)
     - [World Map](https://github.com/islazykv/data-science/blob/main/data-analysis/general/interactive-world-maps.ipynb)
   
-  - #### Physics
+  - #### [Physics](https://github.com/islazykv/data-science/tree/main/data-analysis/physics)
     - [Signal Induced Noise Analysis](https://github.com/islazykv/data-science/blob/main/data-analysis/physics/SIN-analysis.ipynb)
     - [Digital-to-Analog Converter Scan Analysis](https://github.com/islazykv/data-science/blob/main/data-analysis/physics/DAC-analysis.ipynb)
     - [Dark Count Rate Analysis](https://github.com/islazykv/data-science/blob/main/data-analysis/physics/DCR-analysis.ipynb)
