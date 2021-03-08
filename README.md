@@ -1,7 +1,7 @@
 # Data Science
-<div style="text-align: right">
+<div align = "justify">
 Data science repository contains my recent data science projects written in Python. Projects are divided into two categories. The first one concerns general problems inspired by various courses and articles for the study purpose. As I was studying particle physics, the second category focuses on the actual usage of acquired skills to solve physics related problems for my Ph.D. analysis and high energy physics that I encountered during professional particle physics schools.
-</div>
+
 
 ## Contents
 
@@ -21,3 +21,5 @@ Data science repository contains my recent data science projects written in Pyth
     - [House Prices - Linear Regression](https://github.com/islazykv/data-science/blob/main/machine-learning/general/house-prices.ipynb)
   
   - #### Physics
+
+</div>
