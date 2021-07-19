@@ -19,8 +19,9 @@ Data science repository contains my recent data science projects written in Pyth
 - ### Machine Learning
   - #### General
     - [House Prices - Linear Regression](https://github.com/islazykv/data-science/blob/main/machine-learning/general/house-prices.ipynb)
-    - [Loans - Logistic Classification](https://github.com/islazykv/data-science/blob/main/machine-learning/general/loans.ipynb)
+    - [Loans - Logistic Regression](https://github.com/islazykv/data-science/blob/main/machine-learning/general/loans.ipynb)
   
   - #### Physics
-
+    - [LHCb Particle Identification - Logistic Regression](https://github.com/islazykv/data-science/blob/main/machine-learning/physics/LHCb-particle-identification.ipynb)
+  
 </div>
